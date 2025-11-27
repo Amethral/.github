@@ -18,7 +18,7 @@ This organization houses the source code, technical documentation, and design re
 Access the specific documentation for the different modules of the project below:
 
 ### 🔧 Backend & API
-* **[📄 WebAuthentication](./docs/API/WebAuthentification.md)** *Detailed technical breakdown of our JWT & OAuth2 implementation, Security flows, and Database models.*
+* **[📄 WebAuthentication](../docs/API/WebAuthentification.md)** *Detailed technical breakdown of our JWT & OAuth2 implementation, Security flows, and Database models.*
 
 ### 🎮 Game Design & Client
 
