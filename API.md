@@ -1,6 +1,6 @@
 # ⚔️ Amethral MMORPG
 
-<img width="1920" height="526" alt="BANNER" src="https://github.com/user-attachments/assets/1cbfc405-78c6-4a7d-93d7-1a9e6554ff2a" />
+ <img width="1920" height="526" alt="BANNER" src="https://github.com/user-attachments/assets/1cbfc405-78c6-4a7d-93d7-1a9e6554ff2a"/>.
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)]()
 [![Stack](https://img.shields.io/badge/Backend-.NET%208-purple.svg)]()
